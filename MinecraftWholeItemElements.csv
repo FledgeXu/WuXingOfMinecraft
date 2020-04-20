@@ -229,7 +229,7 @@ nether_bricks ,0,0,0,3,5
 nether_brick_fence ,0,0,0,3,4
 nether_brick_stairs ,0,0,0,3,6
 enchanting_table ,40,40,40,40,40
-end_portal_frame ,?,?,?,?,?
+end_portal_frame ,0,0,0,0,0
 end_stone ,0,0,0,0,5
 end_stone_bricks ,0,0,0,0,6
 dragon_egg ,0,0,0,76,80
